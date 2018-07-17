@@ -18,6 +18,7 @@ The content of Democracy Academy was developed collaboratively by students for s
 
 Neither the white paper nor the Democracy Academy curriculum are intended to remain static and we welcome contributions from readers to continue improving them. Like Democracy itself, Democracy Academy must always be a work in progress. 
 
+*This content will be updated regularly, with a unit being added each week. The entire 8 units will be posted by September 1st. 
 
 
 <a name="Background"></a>
